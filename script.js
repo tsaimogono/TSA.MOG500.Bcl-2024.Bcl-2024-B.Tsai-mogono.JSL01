@@ -14,10 +14,5 @@ function validateSyntax() {
             result = 'Invalid Syntax🔴';
         }
 
-
-
             document.getElementById('result').innerText = result;
 }
-
-
-    
